@@ -2843,7 +2843,7 @@ figcaption {
   align-items: center;
   border-radius: 3px;
   background-color: transparent;
-  opacity: 0;
+  opacity: 1;
   -webkit-transition: background-color 200ms ease, opacity 200ms ease;
   transition: background-color 200ms ease, opacity 200ms ease;
   color: #fff;
